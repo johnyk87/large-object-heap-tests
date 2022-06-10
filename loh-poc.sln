@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LohPoc.App", "LohPoc.App\LohPoc.App.csproj", "{F38B513D-A5C9-4093-AEDF-327AD6F810C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LohPoc.Benchmarks", "LohPoc.Benchmarks\LohPoc.Benchmarks.csproj", "{AC2D3300-2646-419B-A46E-7212530B986E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LohPoc.Lib", "LohPoc.Lib\LohPoc.Lib.csproj", "{B51719A0-8263-4BBA-A385-7AD57536A9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38B513D-A5C9-4093-AEDF-327AD6F810C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B513D-A5C9-4093-AEDF-327AD6F810C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38B513D-A5C9-4093-AEDF-327AD6F810C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38B513D-A5C9-4093-AEDF-327AD6F810C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2D3300-2646-419B-A46E-7212530B986E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2D3300-2646-419B-A46E-7212530B986E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2D3300-2646-419B-A46E-7212530B986E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2D3300-2646-419B-A46E-7212530B986E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51719A0-8263-4BBA-A385-7AD57536A9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51719A0-8263-4BBA-A385-7AD57536A9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51719A0-8263-4BBA-A385-7AD57536A9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51719A0-8263-4BBA-A385-7AD57536A9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
